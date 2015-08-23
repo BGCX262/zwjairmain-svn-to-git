@@ -1,0 +1,124 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Developer Studio generated include file.
+// Used by 高校管理系统.rc
+//
+#define IDD_ABOUTBOX                    100
+#define IDR_MAINFRAME                   128
+#define IDR_MYTYPE                      129
+#define IDD_DIALOG                      130
+#define IDD_LOGINDLG_FORM               130
+#define IDD_DIALOG1                     131
+#define IDD_USERCHANGE_FORM             131
+#define IDD_DIALOG2                     132
+#define IDD_STUDENTINFO_FORM            132
+#define IDD_DIALOG3                     133
+#define IDD_CHOICECOURSE_FORM           133
+#define IDD_DIALOG4                     134
+#define IDD_DELCOURSE_FORM              134
+#define IDD_DIALOG5                     135
+#define IDD_COURSELIST_FORM             135
+#define IDD_DIALOG6                     136
+#define IDD_COURSESCORE_FORM            136
+#define IDD_DIALOG7                     137
+#define IDD_CETSCORE_FORM               137
+#define IDD_DIALOG8                     138
+#define IDD_DMPLEVSCORE_FORM            138
+#define IDC_EDIT_USER_NAME              1000
+#define IDC_EDIT_USER_PASSWORD          1001
+#define IDC_COMBO_TYPE                  1004
+#define IDC_STATIC_LOGINTEXT            1006
+#define IDC_STATIC1                     1008
+#define IDC_STATIC2                     1009
+#define IDC_STATIC_USER_CHANGE          1011
+#define IDC_EDIT_NEW_SURE               1015
+#define IDC_EDIT_OLD                    1016
+#define IDC_EDIT_NEW                    1017
+#define ID_BUTTON_CHANGE                1018
+#define IDC_EDIT_DEPARTMENT             1019
+#define IDC_EDIT_MAJOR                  1020
+#define IDC_COMBO_SEX                   1022
+#define IDC_EDIT_RACE                   1023
+#define IDC_EDIT_PHONE                  1024
+#define IDC_COMBO_PARTY                 1026
+#define IDC_EDIT_HOMETOWN               1027
+#define IDC_EDIT_ADDRESS                1028
+#define IDC_EDIT_OTHER                  1029
+#define IDC_DATETIMEPICKER_START        1030
+#define IDC_DATETIMEPICKER_BIRTHDAY     1031
+#define IDC_STATIC_STU_INFO             1032
+#define IDC_EDIT_ID                     1034
+#define IDC_BUTTON_CHANGE               1036
+#define IDC_BUTTON_CANCEL               1037
+#define IDC_EDIT_NAME                   1038
+#define IDC_EDIT_COURSE_ID              1039
+#define IDC_EDIT_COURSE_NAME            1040
+#define IDC_EDIT_COURSE_TIME            1041
+#define IDC_EDIT_START                  1042
+#define IDC_EDIT_END                    1043
+#define IDC_EDIT_CENT                   1044
+#define IDC_EDIT_TEACHER                1045
+#define IDC_EDIT_REQUIRE                1046
+#define IDC_EDIT_INSTRUCTION            1047
+#define IDC_BUTTON_CHOICE               1048
+#define IDC_BUTTON_CANCLE               1049
+#define IDC_LIST_COURSE                 1050
+#define IDC_STATIC_CHOICE_COURSE        1051
+#define IDC_BUTTON_DEL                  1062
+#define IDC_BUTTON_SEARCH               1064
+#define IDC_COMBO_KEYWORD               1065
+#define IDC_EDIT_COST                   1066
+#define IDC_STATIC_COURSE_LIST          1067
+#define IDC_EDIT_CLASS_ID               1070
+#define IDC_EDIT_DAYHOUR                1073
+#define IDC_EDIT_BUILDING               1074
+#define IDC_EDIT_ROOM                   1075
+#define IDC_COMBO_WEEKDAY               1076
+#define IDC_LIST_COURSE_SCORE           1077
+#define IDC_EDIT_SCORE                  1081
+#define IDC_STATIC_COURSE_SCORE         1082
+#define IDC_STATIC_CET_SCORE            1083
+#define IDC_EDIT_STU_ID                 1084
+#define IDC_EDIT_CET4_STATE             1085
+#define IDC_EDIT_CET6_STATE             1086
+#define IDC_EDIT_CET4_SCORE             1088
+#define IDC_EDIT_CET6_SCORE             1089
+#define IDC_EDIT_PERSON_ID              1090
+#define IDC_EDIT_PLACE                  1092
+#define IDC_EDIT_DATE                   1093
+#define IDC_EDIT_DIRECTION              1094
+#define IDC_BUTTON_REGESTER             1095
+#define IDC_EDIT_STU_NAME               1097
+#define IDC_STATIC_CMPLEV_SCORE         1098
+#define IDC_EDIT_STUID                  1104
+#define IDC_EDIT_STUNAME                1105
+#define IDC_EDIT_LEVEL1_STATE           1106
+#define IDC_EDIT_LEVEL1_SCORE           1107
+#define IDC_EDIT_LEVEL2_STATE           1108
+#define IDC_EDIT_LEVEL2_SCORE           1109
+#define ID_COURSE_LIST                  32771
+#define ID_WINDOWS_CASCADE              32772
+#define ID_WINDOWS_TILE_HORZ            32773
+#define ID_WINDOWS_TILE_SCORE           32774
+#define ID_STUDENT_INFO                 32775
+#define ID_USER_CHANGE                  32776
+#define ID_CHOICE_COURSE                32777
+#define ID_DEL_COURSE                   32778
+#define ID_COURSE_SCORE                 32779
+#define ID_CET_SCORE                    32780
+#define ID_COMPUTER_LEVER_SCORE         32781
+#define ID_SYSTEM_CONNECT               32782
+#define ID_SYSTEM_DISCONNECT            32783
+#define ID_WINDOWS_CASECADE             32784
+#define ID_WINDOWS_TILE_VERT            32785
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_3D_CONTROLS                     1
+#define _APS_NEXT_RESOURCE_VALUE        140
+#define _APS_NEXT_COMMAND_VALUE         32786
+#define _APS_NEXT_CONTROL_VALUE         1105
+#define _APS_NEXT_SYMED_VALUE           103
+#endif
+#endif
